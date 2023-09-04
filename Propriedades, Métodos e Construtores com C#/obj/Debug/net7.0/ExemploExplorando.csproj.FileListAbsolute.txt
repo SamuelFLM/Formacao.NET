@@ -1,0 +1,15 @@
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.exe
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.deps.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.runtimeconfig.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\obj\Debug\net7.0\refint\ExemploExplorando.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\ExemploExplorando\obj\Debug\net7.0\ref\ExemploExplorando.dll
