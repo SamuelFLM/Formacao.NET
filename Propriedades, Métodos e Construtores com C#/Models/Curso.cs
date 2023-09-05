@@ -37,8 +37,7 @@ namespace ExemploExplorando.Models
 
             for (int i = 0; i < Alunos.Count; i++)
             {
-                int numero = i + 1;
-                Console.WriteLine($"\t Aluno {numero} - {Alunos[i].NomeCompleto}\n");
+                Console.WriteLine($"\t Aluno {i + 1} - {Alunos[i].NomeCompleto}\n");
             }
         }
     }
