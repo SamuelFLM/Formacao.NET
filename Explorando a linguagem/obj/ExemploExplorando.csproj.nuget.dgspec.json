@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Formacao.net\\Propriedades, Métodos e Construtores com C#\\ExemploExplorando.csproj": {}
+    "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Formacao.net\\Explorando a linguagem\\ExemploExplorando.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Formacao.net\\Propriedades, Métodos e Construtores com C#\\ExemploExplorando.csproj": {
+    "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Formacao.net\\Explorando a linguagem\\ExemploExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Formacao.net\\Propriedades, Métodos e Construtores com C#\\ExemploExplorando.csproj",
+        "projectUniqueName": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Formacao.net\\Explorando a linguagem\\ExemploExplorando.csproj",
         "projectName": "ExemploExplorando",
-        "projectPath": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Formacao.net\\Propriedades, Métodos e Construtores com C#\\ExemploExplorando.csproj",
+        "projectPath": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Formacao.net\\Explorando a linguagem\\ExemploExplorando.csproj",
         "packagesPath": "C:\\Users\\Lazer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Formacao.net\\Propriedades, Métodos e Construtores com C#\\obj\\",
+        "outputPath": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\Formacao.net\\Explorando a linguagem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
