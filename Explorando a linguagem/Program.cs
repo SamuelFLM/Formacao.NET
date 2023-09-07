@@ -1,9 +1,15 @@
 ﻿
 using ExemploExplorando.Models;
 
+Stack<int> pilha = new Stack<int>();
 
-ExemploExcecao e = new ExemploExcecao();
-e.Metodo1();
+pilha.Push(10);
+pilha.Push(11);
+pilha.Push(12);
+
+Console.WriteLine($"Removendo: {pilha.Pop()}");
+
+foreach(int item in pilha){System.Console.WriteLine(item);}
 
 // Pessoa p = new Pessoa(nome: "Samuel", sobrenome: "Lima");
 
