@@ -11,8 +11,15 @@ namespace ExemploExplorando.Models
 
         public Pessoa(string nome, string sobrenome)
         {
-            this.Nome = nome;
-            this.Sobrenome = sobrenome;
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+        // Realiza uma ação inversa
+        // Out significa: parametro de saída
+        public void Deconstruct(out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
         }
         public Pessoa(string nome, string sobrenome, int idade)
         {
@@ -53,6 +60,7 @@ namespace ExemploExplorando.Models
 
         public void Apresentar() => Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
 
+        
     }
 
 
