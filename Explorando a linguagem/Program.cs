@@ -1,10 +1,19 @@
 ﻿using ExemploExplorando.Models;
 
 
-//Maneira mais recomendada
-(int Id, string Nome, string Sobrenome) tupla = (1, "samuel", "felipe");
+LeituraArquivo arquivo = new LeituraArquivo();
 
-Console.WriteLine(tupla); // Todos valores
-Console.WriteLine(tupla.Id); // peguei o primeiro valor da tupla
-Console.WriteLine(tupla.Nome); 
-Console.WriteLine(tupla.Sobrenome); 
+// (bool sucesso, string[] linhasArquivos, int QuantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+var (sucesso, linhasArquivos, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+if (sucesso)
+{
+    Console.WriteLine($"Quantidade Linhas Arquivos: {quantidadeLinhas}");
+    foreach (var linha in linhasArquivos)
+    {
+        Console.WriteLine(linha);
+    }
+}
+else{
+    Console.WriteLine("Não foi possível ler o arquivo");
+}
