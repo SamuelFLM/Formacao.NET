@@ -1,2 +1,2 @@
 # Formacao.NET
-<p>Formação .net</p>
+<p>Formação .net e WEX</p>
