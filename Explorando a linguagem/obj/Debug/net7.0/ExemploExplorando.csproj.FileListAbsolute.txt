@@ -43,3 +43,5 @@ C:\Users\Lazer\OneDrive\Área de Trabalho\Formacao.net\Explorando a linguagem\ob
 C:\Users\Lazer\OneDrive\Área de Trabalho\Formacao.net\Explorando a linguagem\obj\Debug\net7.0\ExemploExplorando.pdb
 C:\Users\Lazer\OneDrive\Área de Trabalho\Formacao.net\Explorando a linguagem\obj\Debug\net7.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\Lazer\OneDrive\Área de Trabalho\Formacao.net\Explorando a linguagem\obj\Debug\net7.0\ref\ExemploExplorando.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Formacao.net\Explorando a linguagem\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Formacao.net\Explorando a linguagem\obj\Debug\net7.0\ExemploExplorando.csproj.CopyComplete
